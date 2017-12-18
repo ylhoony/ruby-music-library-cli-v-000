@@ -5,9 +5,9 @@ module Namable
         o.name = name
       end
 
-      i = self.new
-      i.name = name
-      i
+      # i = self.new
+      # i.name = name
+      # i
     end
   end
 end
